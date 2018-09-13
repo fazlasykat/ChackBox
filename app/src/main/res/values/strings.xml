@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chack Box</string>
+    <string name="main_text">What do you want to get ?</string>
+    <string name="milk_text">Milk</string>
+    <string name="water_text">Water</string>
+    <string name="suger_text">Suger</string>
+    <string name="button_text">Show</string>
+</resources>
